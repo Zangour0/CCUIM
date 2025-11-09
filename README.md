@@ -229,11 +229,11 @@ Infelizmente, ainda **não está disponível** a criação e execução de recei
 ## APOIE-ME 💖
 
 Caso queira me apoiar, aqui está meu **PayPal**!  
-Quanto mais me apoiarem, mais dinheiro pra hambúrguer e coquinha será investido pra eu fritar minha mente na frente do PC fazendo códigos <3
+Quanto mais me apoiarem, mais dinheiro pra hambúrguer e coquinha será investido pra eu fritar minha mente na frente do PC fazendo códigos <3.
 
-![paypal-logo](https://github.com/user-attachments/assets/8e277813-d82c-4973-8a30-ebac795e8bc8)
+[![Suporte via Paypal](https://github.com/user-attachments/assets/8e277813-d82c-4973-8a30-ebac795e8bc8)](https://www.paypal.com/donate/?business=ZW7E4SRJ8ET36&no_recurring=0&currency_code=BRL)
 
-- **SOON, CALMA!!**
+<img width="192" height="192" alt="QR Code (2)" src="https://github.com/user-attachments/assets/eafaf7a0-595e-483e-8b2b-ed71f307b6e7" />
 
 ---
 
