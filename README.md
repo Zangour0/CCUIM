@@ -118,7 +118,7 @@ Após isso, apenas mantenha a turtle ligada, e o programa começará automaticam
 
 Caso não possua o programa, rode o código na turtle para a versão 2.0:
 
-    pastebin get TuZqvNiJ
+    pastebin get TuZqvNiJ CraftTurtle
 
 
 ![Turtle program](https://github.com/user-attachments/assets/09257ed1-abab-4bec-afdb-70bb6552099e)
@@ -126,7 +126,7 @@ Caso não possua o programa, rode o código na turtle para a versão 2.0:
 Vá para o computador e edite o programa `CCUIM_2`.  
 Caso não o tenha, baixe usando o seguinte código:
 
-    pastebin get uYa4gT2W
+    pastebin get uYa4gT2W CCUIM_2
 
 
 ![CCUIM download](https://github.com/user-attachments/assets/9071c65b-3f5b-4abe-894a-7a243831d626)
@@ -228,12 +228,14 @@ Infelizmente, ainda **não está disponível** a criação e execução de recei
 
 ## APOIE-ME 💖
 
-Caso queira me apoiar, aqui está meu **PayPal**!  
+Caso queira me apoiar, aqui está meu **PicPay**!  
 Quanto mais me apoiarem, mais dinheiro pra hambúrguer e coquinha será investido pra eu fritar minha mente na frente do PC fazendo códigos <3.
 
-[![Suporte via Paypal](https://github.com/user-attachments/assets/8e277813-d82c-4973-8a30-ebac795e8bc8)](https://www.paypal.com/donate/?business=ZW7E4SRJ8ET36&no_recurring=0&currency_code=BRL)
+[![Suporte via Picpay](https://github.com/user-attachments/assets/d2222230-ea71-4a71-bc84-9f1e7459c0e8)](https://picpay.me/lucas.souza9515/0.5)
 
-<img width="192" height="192" alt="QR Code (2)" src="https://github.com/user-attachments/assets/eafaf7a0-595e-483e-8b2b-ed71f307b6e7" />
+<img width="292" height="292" alt="QR Code (2)" src="https://github.com/user-attachments/assets/6f24ca96-2c79-429b-ac5d-0ad863f3f25b" />
+
+Pix: [ 902489d7-3ff6-46b2-b447-d3f20646e7b0 ]
 
 ---
 
